@@ -10,7 +10,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "/>
 </div> <br/>
 
-   ![My graphic](https://github-readme-stats.vercel.app/api?username=LucasHR5&theme=shadow_red&show_icons=true)
-
+  
 
 
