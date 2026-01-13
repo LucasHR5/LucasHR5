@@ -1,4 +1,4 @@
-### Olá, Eu sou Lucas R 👾
+### Olá, Eu sou Lucas Rodrigues 👾
 
 ### Tecnologias mais utilizadas:
 
