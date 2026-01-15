@@ -15,12 +15,6 @@ Trabalho com **APIs, sistemas interativos e automação de processos**, utilizan
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-![Lucas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHR5&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHR5&layout=compact&theme=radical)
-
 
 ---
 
