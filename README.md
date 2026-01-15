@@ -19,8 +19,8 @@ Trabalho com **APIs, sistemas interativos e automação de processos**, utilizan
 
 ## 📊 GitHub Stats
 
-![Lucas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Lucas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHR5&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHR5&layout=compact&theme=radical)
 
 ---
 
