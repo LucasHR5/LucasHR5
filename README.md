@@ -4,10 +4,6 @@ Desenvolvedor web full-stack com experiência em **Node.js, NestJS, Express** no
 Trabalho com **APIs, sistemas interativos e automação de processos**, utilizando **JavaScript, TypeScript e Python**.
 
 ---
-
-## Tecnologias mais utilizadas
-
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
